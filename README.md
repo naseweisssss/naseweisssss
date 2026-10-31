@@ -11,7 +11,7 @@ under the Machine Learning Group and Computational Biological Learning Lab.
 
 - Backend systems, distributed infrastructure, and data platforms
 - Performance, reliability, and observability
-- Open-source contributions to pandas and NumPy
+- Open-source contributions
 
 ### Technologies
 
