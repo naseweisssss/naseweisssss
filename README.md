@@ -4,7 +4,8 @@ Software Engineer at Bloomberg in London, working on distributed data
 platforms for multi-asset risk systems.
 
 I graduated from the University of Cambridge in 2025 with a BA/MEng
-in Information and Computer Engineering.
+in Information and Computer Engineering. My research was on the JuliaBUGS
+under the Machine Learning Group and Computational Biological Learning Lab.
 
 ### What I work on
 
